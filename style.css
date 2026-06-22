@@ -156,7 +156,10 @@ nav a:focus-visible {
         justify-content: flex-start;
     }
 }
-
+#donate{
+    
+    color:#d67d1d;
+}
 .eyebrow {
     display: inline-block;
     margin-bottom: 18px;
