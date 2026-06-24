@@ -292,7 +292,8 @@ main {
 
 .section-header {
     max-width: 720px;
-    margin-bottom: 46px;
+    margin: 0 auto 46px;
+    text-align: center;
 }
 
 .section-header h2,
