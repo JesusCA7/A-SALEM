@@ -3,6 +3,11 @@
     padding: 0;
     box-sizing: border-box;
 }
+#home-nav{
+    height:116px;
+    margin:auto;
+    padding-top:27.5px;
+}
 .banner {
     width: 100%;
     overflow: hidden;
